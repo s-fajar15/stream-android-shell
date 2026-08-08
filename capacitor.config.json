@@ -1,0 +1,13 @@
+{
+  "appId": "com.kyjar.stream",
+  "appName": "Stream",
+  "webDir": "www",
+  "server": {
+    "url": "https://streamvidoy.up.railway.app/",
+    "cleartext": false,
+    "androidScheme": "https"
+  }
+}
+cheme": "https"
+  }
+}
